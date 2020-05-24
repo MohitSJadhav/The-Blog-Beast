@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "title": "The Blog Beast",
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/BlogBeast",
+    "production_uri": "mysql://root:@localhost/BlogBeast",
+    "fb_url": "http://www.facebook.com",
+    "user": "MJ",
+    "twitter_url": "http://www.twitter.com",
+    "github_url": "http://www.github.com",
+    "gmail_user": "mohitsanjayjadhav@gmail.com",
+    "gmail_password": "48584858",
+    "no_of_posts": 5,
+    "Blog_name": "TheBlogBeast",
+    "admin_user": "mohitsanjayjadhav@gmail.com",
+    "admin_password": "48584858",
+    "upload_location": "//home//mj//Desktop//flaskproj//static//img"
+  }
+}
